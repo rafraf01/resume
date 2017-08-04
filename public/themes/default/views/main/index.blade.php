@@ -15,7 +15,7 @@
             </div>
             <div class="header-content wow lightSpeedIn">
                 <div class="about">
-                    <h1>Juan dela Cruz</h1>
+                    <h1>Rafael dela Cruz</h1>
                     <h3>Software Developer</h3>
                     <p>3 years of experience</p>
                 </div>
