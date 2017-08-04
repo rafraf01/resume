@@ -1,0 +1,256 @@
+
+html,body{
+    padding:0;
+    margin: 0;
+    width:100%;
+}
+.wrapper{
+    max-width:1100px;
+    width:100%;
+    margin:auto;
+    position: relative;
+}
+#footer{
+    height:100px;
+    text-align:center;
+    background: #ddd;
+    position: fixed;
+    bottom:0;
+    margin-bottom:0;
+    z-index:0;
+    width: 100%;
+}
+.footer-section{
+    padding-top: 2%;
+}
+.footer-section p:first-child{
+    font-size: 0.86em;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.footer-section p{
+    font-size: 0.85em;
+}
+#main-box{
+    margin-bottom: 100px;
+    padding-bottom: 0;
+    width: 100%;
+    z-index: 500;
+    overflow: hidden;
+    position: relative;
+    background:url(../../assets/img/background/webg.jpg);
+    background-repeat: repeat;
+    background-size:auto;
+
+}
+#header{
+    background:#2980b9;
+    -webkit-transition: all .3s ease-out 0s;
+    transition: all .3s ease-out 0s;
+}
+#header .picture {
+    -webkit-transition: all .3s ease-out 0s;
+    transition: all .3s ease-out 0s;
+    position: absolute;
+    overflow: hidden;
+    width: 24%;
+    border-radius: 50%;
+    z-index: 100;
+    top: 85px;
+    left: 6%;
+    height: auto;
+    border: 15px solid #2980b9;
+}
+.picture img{
+    width:100%;
+    border-radius:50%;
+    height:auto;
+}
+.header-content{
+    width: 100%;
+    position: relative;
+    padding-top: 110px;
+}
+.about{
+    float:right;
+    width:61%;
+    color:#fff;
+}
+.about h1{text-transform:uppercase;font-weight: 600;}
+.main{
+    padding-top:100px;
+    background: #fff;
+    overflow: hidden;
+    padding-bottom: 55px;
+}
+section{margin-top:60px;}
+.wrapper.main section{
+    margin-left:6%;
+    margin-right:6%;
+    width:88%;
+}
+#about{
+    background: url(../../assets/img/quote.png) no-repeat top left/55px;
+    padding-top: 25px;
+}
+#about,#contact{
+    margin-left:6%;
+    margin-top:55px;
+}
+#contact{
+    margin-right:55px;
+}
+#about p{
+    font-size: .875em;
+    line-height: 1.857em;
+    text-align: justify;
+    text-indent: 70px;
+}
+#about.sectionleft,#hobbies.sectionleft{
+    /*margin-right: 0;*/
+    width:88%;
+    float:left;
+}
+#hobbies.sectionleft{
+    margin-right:0;
+}
+#contact.sectionright,#contactme.sectionright{
+    width:88%;
+    float:left;
+}
+.sectionright {
+    width:40%;
+}
+.section-title{
+    border-bottom:4px solid #2980b9;
+}
+.section-title h3{
+    font-weight: 600;
+    font-size: 2.125em;
+    text-transform: uppercase;
+}
+.contact-list{
+    margin-top:40px;
+    width:100%;
+}
+.contact-list .box{display:block;}
+.contact-list .icon{
+    display:inline-block;
+    background: #2980b9;
+    text-align: center;
+    font-size: 2em;
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    line-height:49px;
+    color: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.7);
+}
+.contact-list .icon:hover{
+    background: #155884;
+}
+.contact-list .box span,.contact-list .box p{
+    margin-left: 60px;
+}
+.contact-list .box span{
+    text-transform: uppercase;
+    font-weight: 100;
+    font-size: 1.15em;
+    color: #2980b9;
+}
+.contact-list .box p{
+    font-size:12px;
+    color:#000;
+}
+.contact-list .icon .fa-at,.contact-list .icon .fa-laptop{
+    font-size:0.85em
+}
+#workExperience article,#education article{
+    overflow:hidden;
+    width:100%;
+    margin-top:40px;
+}
+#workExperience h4,#education h4{
+    color: #2980b9;
+}
+p.year-from{
+    font-size: 1.2em;
+    background: #2980b9;
+    border-radius: 15px;
+    padding: 10px;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    width: 200px;
+    text-align: center;
+    color: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.7);
+}
+.skillset{
+    margin:0 auto;
+    width: 100%;
+    overflow:hidden;
+    text-align:center;
+}
+.skillset img{
+    width:50%;
+}
+.skillset div{
+    padding:15px;
+}
+.contact-list .icon.hobbies {
+    width: 60px;
+    height: 60px;
+    line-height:59px;
+}
+.contact-list .box.hobby span{
+    margin-left:70px;
+    line-height:70px;
+}
+
+@media only screen and (min-width:1200px){
+    #about.sectionleft,#hobbies.sectionleft{
+        width:40%;
+        float:left;
+    }
+    #contact.sectionright,#contactme.sectionright{
+        width:40%;
+        float:left;
+    }
+    #about, #contact{
+        margin-left:55px;
+        margin-right:55px;
+    }
+    .about h1, .about h3{margin:0;}
+
+    .about h3{
+        font-size: 1.50em;
+        padding: 10px 0 0 0;
+    }
+    .about{
+        margin-bottom: 20px;
+    }
+}
+@media only screen and (max-device-width: 480px), (max-width: 480px){
+    #header .picture {
+        position: relative;
+        width: 70%;
+        left: 0;
+        margin: 0 auto;
+    }
+    #header #headercontent #abouttitle {
+        width: 100%;
+        text-align: center;
+        float: none;
+    }
+    .about{
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+    }
+}
+.contact-list .box span.titles, .contact-list .box p.titles{
+    margin-left: 70px;
+}
