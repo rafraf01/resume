@@ -11,7 +11,7 @@
     <header id="header">
         <div class="wrapper">
             <div class="picture wow zoomInDown">
-                <img src="../../assets/img/repub.png">
+                <img src="../../assets/img/rvdc.png">
             </div>
             <div class="header-content wow lightSpeedIn">
                 <div class="about">
@@ -121,82 +121,82 @@
             </div>
             <div class="wrapper" style="margin-top:40px;">
                 <div class="skillset">
-                    <div class="col-lg-3 wow bounceInLeft">
+                    <div class="col-lg-3 col-sm-4 wow bounceInLeft">
                         <div>
                             <img src="../../assets/img/skills/html5.svg">
                         </div>
                     </div>
-                    <div class="col-lg-3 wow bounceInLeft">
+                    <div class="col-lg-3 col-sm-4 wow bounceInLeft">
                         <div>
                             <img src="../../assets/img/skills/css3.svg">
                         </div>
                     </div>
-                    <div class="col-lg-3 wow bounceInLeft">
+                    <div class="col-lg-3 col-sm-4 wow bounceInLeft">
                         <div>
                             <img src="../../assets/img/skills/bootstrap.svg">
                         </div>
                     </div>
-                    <div class="col-lg-3 wow bounceInLeft">
+                    <div class="col-lg-3 col-sm-4 wow bounceInLeft">
                         <div>
                             <img src="../../assets/img/skills/javascript.svg">
                         </div>
                     </div>
-                    <div class="col-lg-3 wow bounceInRight">
+                    <div class="col-lg-3 col-sm-4 wow bounceInRight">
                         <div>
                             <img src="../../assets/img/skills/jquery.svg">
                         </div>
                     </div>
-                    <div class="col-lg-3 wow bounceInRight">
+                    <div class="col-lg-3 col-sm-4 wow bounceInRight">
                         <div>
                             <img src="../../assets/img/skills/php.svg">
                         </div>
                     </div>
-                    <div class="col-lg-3 wow bounceInRight">
+                    <div class="col-lg-3 col-sm-4 wow bounceInRight">
                         <div>
                             <img src="../../assets/img/skills/laravel.svg">
                         </div>
                     </div>
-                    <div class="col-lg-3 wow bounceInRight">
+                    <div class="col-lg-3 col-sm-4 wow bounceInRight">
                         <div>
                             <img src="../../assets/img/skills/mysql.svg">
                         </div>
                     </div>
-                    <div class="col-lg-3 wow bounceInLeft">
+                    <div class="col-lg-3 col-sm-4 wow bounceInLeft">
                         <div>
                             <img src="../../assets/img/skills/github.svg">
                         </div>
                     </div>
-                    <div class="col-lg-3 wow bounceInLeft">
+                    <div class="col-lg-3 col-sm-4 wow bounceInLeft">
                         <div>
                             <img src="../../assets/img/skills/heroku.svg">
                         </div>
                     </div>
-                    <div class="col-lg-3 wow bounceInLeft">
+                    <div class="col-lg-3 col-sm-4 wow bounceInLeft">
                         <div>
                             <img src="../../assets/img/skills/visualstudio.svg">
                         </div>
                     </div>
-                    <div class="col-lg-3 wow bounceInLeft">
+                    <div class="col-lg-3 col-sm-4 wow bounceInLeft">
                         <div>
                             <img src="../../assets/img/skills/photoshop.svg">
                         </div>
                     </div>
-                    <div class="col-lg-3 wow bounceInRight">
+                    <div class="col-lg-3 col-sm-4 wow bounceInRight">
                         <div>
                             <img src="../../assets/img/skills/git.svg">
                         </div>
                     </div>
-                    <div class="col-lg-3 wow bounceInRight">
+                    <div class="col-lg-3 col-sm-4 wow bounceInRight">
                         <div>
                             <img src="../../assets/img/skills/csharp.svg">
                         </div>
                     </div>
-                    <div class="col-lg-3 wow bounceInRight">
+                    <div class="col-lg-3 col-sm-4 wow bounceInRight">
                         <div>
                             <img src="../../assets/img/skills/dotnet.svg">
                         </div>
                     </div>
-                    <div class="col-lg-3 wow bounceInRight">
+                    <div class="col-lg-3 col-sm-4 wow bounceInRight">
                         <div>
                             <img src="../../assets/img/skills/jetbrains.svg">
                         </div>
@@ -299,9 +299,9 @@
                     <div class="contact-list">
                         <div class="box ">
                             <div class="icon hobbies">
-                                <i class="fa fa-snapchat-ghost"></i>
+                                <i class="fa fa-twitter"></i>
                             </div>
-                            <span class="titles">snapchat</span>
+                            <span class="titles">twitter</span>
                             <p class="titles">rafraf18</p>
                         </div>
                     </div>
