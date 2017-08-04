@@ -26,7 +26,7 @@
     <div class="wrapper main">
         <section id="about" class="sectionleft wow bounceInRight">
             <p>My name is Rafael V. dela Cruz, and I'm currently working as a Software Developer for 3 years specializing in Web application development. An organized, independent and able to effectively coordinate tasks to accomplish project goals and objectives.</p>
-            <br><span>Dedicated and motivaded Information Technology graduate with proven team leadership. Outgoing and detail-oriented, I am hardworking and eager to learn and have a genuine interest in programming.</span>
+            <br><p>Dedicated and motivaded Information Technology graduate with proven team leadership. Outgoing and detail-oriented, I am hardworking and eager to learn and have a genuine interest in programming.</p>
         </section>
         <section id="contact" class="sectionright wow bounceInLeft">
             <div class="section-title">
