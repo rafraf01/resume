@@ -5,9 +5,6 @@ html,body{
     width:100%;
     font-family: 'Raleway',sans-serif;
 }
-*{
-
-}
 .wrapper{
     max-width:1100px;
     width:100%;
@@ -170,7 +167,7 @@ section{margin-top:60px;}
     font-size:12px;
     color:#000;
 }
-.contact-list .icon .fa-at,.contact-list .icon .fa-laptop{
+.contact-list .icon .fa-envelope-o,.contact-list .icon .fa-laptop{
     font-size:0.85em
 }
 #workExperience article,#education article{

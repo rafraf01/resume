@@ -44,7 +44,7 @@
             <div class="contact-list">
                 <div class="box">
                     <div class="icon">
-                        <i class="fa fa-at"></i>
+                        <i class="fa fa-envelope-o"></i>
                     </div>
                     <span>Email</span>
                     <p>rafraf.dc@gmail.com</p>
