@@ -255,6 +255,9 @@ p.year-from{
         margin: 0 auto;
         text-align: center;
     }
+    .about h1{
+        font-size: 2.3em;
+    }
 }
 .contact-list .box span.titles, .contact-list .box p.titles{
     margin-left: 70px;
