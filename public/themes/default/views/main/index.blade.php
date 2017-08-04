@@ -24,10 +24,11 @@
         </div>
     </header>
     <div class="wrapper main">
-        <section id="about" class="sectionleft wow bounceInLeft">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam fermentum, risus nec elementum rhoncus, nulla neque dapibus augue, blandit imperdiet elit libero et risus. Pellentesque pellentesque massa eget mi vulputate pellentesque. Integer placerat vestibulum purus in fermentum. Praesent at cursus tellus. </p>
+        <section id="about" class="sectionleft wow bounceInRight">
+            <p>My name is Rafael V. dela Cruz, and I'm currently working as a Software Developer for 3 years specializing in Web application development. An organized, independent and able to effectively coordinate tasks to accomplish project goals and objectives.</p>
+            <br><span>Dedicated and motivaded Information Technology graduate with proven team leadership. Outgoing and detail-oriented, I am hardworking and eager to learn and have a genuine interest in programming.</span>
         </section>
-        <section id="contact" class="sectionright wow bounceInRight">
+        <section id="contact" class="sectionright wow bounceInLeft">
             <div class="section-title">
                 <h3>Contact</h3>
             </div>
@@ -279,7 +280,7 @@
                                 <i class="fa fa-instagram"></i>
                             </div>
                             <span class="titles">instagram</span>
-                            <p class="titles">xxxx</p>
+                            <p class="titles">rafdlcrz</p>
                         </div>
                     </div>
                 </div>
@@ -290,7 +291,7 @@
                                 <i class="fa fa-linkedin"></i>
                             </div>
                             <span class="titles">linkedin</span>
-                            <p class="titles">+639 151 501 883</p>
+                            <p class="titles">Rafael dela Cruz</p>
                         </div>
                     </div>
                 </div>
@@ -301,7 +302,7 @@
                                 <i class="fa fa-snapchat-ghost"></i>
                             </div>
                             <span class="titles">snapchat</span>
-                            <p class="titles">+639 151 501 883</p>
+                            <p class="titles">rafraf18</p>
                         </div>
                     </div>
                 </div>
